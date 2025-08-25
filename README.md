@@ -1,2 +1,1 @@
-# Pic
-images storage for blog
+# Upload Branch for Images
